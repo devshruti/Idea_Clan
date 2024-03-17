@@ -1,22 +1,21 @@
 # Idea Clan Assignment
 
-deployed link: 
-
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
 - [Deployment](#deployment)
-- [API Documentation](#api-documentation)
-- [Additional Information](#additional-information)
+
+
+## Deployment
+
+deployed link: 
 
 ## Installation
 
 1. Clone the repository:
-
 2. Install dependencies:  npm install
-
 3. Set up environment variables:
 Create a `.env` file in the root directory and add the following variables:
 port=8080
