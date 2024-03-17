@@ -14,7 +14,7 @@ deployed link: https://idea-clan-s5zm.onrender.com
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/devshruti/Idea_Clan.git
 2. Install dependencies:  npm install
 3. Set up environment variables:
 Create a `.env` file in the root directory and add the following variables:
