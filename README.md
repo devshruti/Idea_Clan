@@ -10,7 +10,7 @@
 
 ## Deployment
 
-deployed link: 
+deployed link: https://idea-clan-s5zm.onrender.com
 
 ## Installation
 
